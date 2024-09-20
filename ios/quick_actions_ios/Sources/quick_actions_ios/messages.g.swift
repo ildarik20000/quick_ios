@@ -80,7 +80,7 @@ struct ShortcutItemMessage {
   /// Localized title of the item.
   var localizedTitle: String
    /// Localized subtitle of the item.
-  var localizedSubtitle: String? = 
+  var localizedSubtitle: String? 
   /// Name of native resource to be displayed as the icon for this item.
   var icon: String? = nil
 
