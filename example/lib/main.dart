@@ -53,10 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
         localizedTitle: 'Action one',
         icon: 'AppIcon',
       ),
-      const ShortcutItem(
-          type: 'action_two',
-          localizedTitle: 'Action two',
-          icon: 'ic_launcher'),
+      const ShortcutItem(type: 'action_two', localizedTitle: 'Action two', icon: 'ic_launcher'),
     ]).then((void _) {
       setState(() {
         if (shortcut == 'no action set') {

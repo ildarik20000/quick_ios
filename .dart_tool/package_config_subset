@@ -22,6 +22,10 @@ integration_test
 3.2
 file:///Users/mazito/.dev/flutter/packages/integration_test/
 file:///Users/mazito/.dev/flutter/packages/integration_test/lib/
+quick_actions_platform_interface
+3.3
+file:///Users/mazito/.pub-cache/git/quick_interface-57357134e9359a428fb111faf4241c3c124fae28/
+file:///Users/mazito/.pub-cache/git/quick_interface-57357134e9359a428fb111faf4241c3c124fae28/lib/
 _fe_analyzer_shared
 3.0
 file:///Users/mazito/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-67.0.0/
@@ -146,10 +150,6 @@ pub_semver
 2.17
 file:///Users/mazito/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/
 file:///Users/mazito/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/lib/
-quick_actions_platform_interface
-3.0
-file:///Users/mazito/.pub-cache/hosted/pub.dev/quick_actions_platform_interface-1.0.6/
-file:///Users/mazito/.pub-cache/hosted/pub.dev/quick_actions_platform_interface-1.0.6/lib/
 source_span
 2.18
 file:///Users/mazito/.pub-cache/hosted/pub.dev/source_span-1.10.0/
@@ -204,6 +204,6 @@ file:///Users/mazito/.pub-cache/hosted/pub.dev/yaml-3.1.2/
 file:///Users/mazito/.pub-cache/hosted/pub.dev/yaml-3.1.2/lib/
 quick_actions_ios
 3.3
-file:///Users/mazito/Developer/job/QuickActions/quick_actions_ios/
-file:///Users/mazito/Developer/job/QuickActions/quick_actions_ios/lib/
+file:///Users/mazito/Developer/job/quick_actions_ios/
+file:///Users/mazito/Developer/job/quick_actions_ios/lib/
 2

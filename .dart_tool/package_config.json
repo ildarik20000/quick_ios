@@ -219,9 +219,9 @@
     },
     {
       "name": "quick_actions_platform_interface",
-      "rootUri": "file:///Users/mazito/.pub-cache/hosted/pub.dev/quick_actions_platform_interface-1.0.6",
+      "rootUri": "file:///Users/mazito/.pub-cache/git/quick_interface-57357134e9359a428fb111faf4241c3c124fae28/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "sky_engine",
@@ -314,7 +314,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-09-20T06:25:02.166318Z",
+  "generated": "2024-09-20T07:46:31.259990Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

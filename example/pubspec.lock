@@ -172,10 +172,11 @@ packages:
   quick_actions_platform_interface:
     dependency: transitive
     description:
-      name: quick_actions_platform_interface
-      sha256: "81a1e40c519bb3cacfec38b3008b13cef665a75bd270da94f40091b57f0f9236"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "57357134e9359a428fb111faf4241c3c124fae28"
+      url: "https://github.com/ildarik20000/quick_interface.git"
+    source: git
     version: "1.0.6"
   sky_engine:
     dependency: transitive
